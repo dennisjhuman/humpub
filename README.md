@@ -1,4 +1,4 @@
 humpub
 ======
 
-The Humanode Public Section
+The Humanode Public Testing Ground
